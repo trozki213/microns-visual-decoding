@@ -1,0 +1,8 @@
+# Data (not redistributed)
+*.h5
+*.npz
+microns_datacleaner/
+
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
